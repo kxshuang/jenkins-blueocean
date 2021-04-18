@@ -1,2 +1,2 @@
-blueocean:1.3.0
+blueocean:1.24.6
 openshift-pipeline:1.0.57
